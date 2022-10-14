@@ -19,7 +19,7 @@ MarkupSafe==2.0.1
 ##pkg-resources==0.0.0
 premailer==3.10.0
 pycparser==2.21
-pysqlcipher3==1.1.0
+##pysqlcipher3==1.1.0
 requests==2.27.1
 semantic-version==2.10.0
 setuptools-rust==1.1.2
